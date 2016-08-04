@@ -1,0 +1,35 @@
+_repo: Major-Barbara_3790
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Shaw, Bernard
+    alias: Shaw, George Bernard
+    birthdate: 1856
+    deathdate: 1950
+    gutenberg_agent_id: '467'
+    url: http://www.gutenberg.org/2009/agents/467
+    wikipedia: http://en.wikipedia.org/wiki/George_Bernard_Shaw
+description: Major Barbara is a 1905 play by George Bernard Shaw. Andrew Undershaft,
+  a wealthy weapons trader, despises poverty believing "The greatest of our evils
+  and the worst of our crimes is poverty ... our first duty, to which every other
+  consideration should be sacrificed, is not to be poor". His daughter, Barbara, devotes
+  herself to charity. When a shelter for the poor is at risk of closure due to lack
+  of funds, the idealistic Barbara ...
+gutenberg_issued: '2003-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '3790'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Crime -- Drama'
+- !lcc 'PR'
+- !lcsh 'Children of the rich -- Drama'
+- !lcsh 'Salvation Army -- Drama'
+- !lcsh 'Fathers and daughters -- Drama'
+- !lcsh 'Didactic drama'
+- GITenberg
+title: Major Barbara
+url: http://www.gutenberg.org/ebooks/3790
