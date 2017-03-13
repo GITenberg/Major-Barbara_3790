@@ -1,5 +1,8 @@
 _repo: Major-Barbara_3790
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Shaw, Bernard
@@ -15,6 +18,8 @@ description: Major Barbara is a 1905 play by George Bernard Shaw. Andrew Undersh
   consideration should be sacrificed, is not to be poor". His daughter, Barbara, devotes
   herself to charity. When a shelter for the poor is at risk of closure due to lack
   of funds, the idealistic Barbara ...
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/3790#Major-Barbara
 gutenberg_issued: '2003-02-01'
 gutenberg_type: Text
 identifiers:
