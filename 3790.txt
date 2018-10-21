@@ -14,6 +14,7 @@ Posting Date: May 19, 2009 [EBook #3790]
 Release Date: February, 2003
 First Posted: September 9, 2001
 Last Updated: April 15, 2005
+Last Updated: July 24, 2015
 
 Language: English
 
@@ -2939,7 +2940,7 @@ ACT III
 
 Next day after lunch Lady Britomart is writing in the library in
 Wilton Crescent. Sarah is reading in the armchair near the
-window. Barbara, in ordinary dress, pale and brooding, is on the
+window. Barbara, in ordinary dresss, pale and brooding, is on the
 settee. Charley Lomax enters. Coming forward between the settee
 and the writing table, he starts on seeing Barbara fashionably
 attired and in low spirits.
@@ -3008,10 +3009,10 @@ What were you doing?
 
 CUSINS. Drinking.
 
-LADY BRITOMART. {Adolphus!
-SARAH.          {Dolly!
-BARBARA.        {Dolly!
-LOMAX.          {Oh I say!
+  LADY BRITOMART. }{ Adolphus!
+  SARAH.          }{ Dolly!
+  BARBARA.        }{ Dolly!
+  LOMAX.          }{ Oh I say!
 
 LADY BRITOMART. What were you drinking, may I ask?
 
@@ -3319,7 +3320,7 @@ the big men who can be treated as children.
 STEPHEN. I am sorry, mother, that you have forced me--
 
 UNDERSHAFT [stopping him] Yes, yes, yes, yes: that's all right,
-Stephen. She won't interfere with you any more: your independence
+Stephen. She wont interfere with you any more: your independence
 is achieved: you have won your latchkey. Don't rub it in; and
 above all, don't apologize. [He resumes his seat]. Now what about
 your future, as between one man and another--I beg your pardon,
@@ -3878,10 +3879,10 @@ UNDERSHAFT. What do you mean?
 CUSINS. Well, I have something to say which is in the nature of a
 confession.
 
-SARAH.             {
-LADY BRITOMART.    { Confession!
-BARBARA.           {
-STEPHEN.           {
+  SARAH.             }
+  LADY BRITOMART.    } Confession!
+  BARBARA.           }
+  STEPHEN.           }
 
 LOMAX. Oh I say!
 
